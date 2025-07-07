@@ -1,0 +1,78 @@
+Mon Jul  7 08:06:22 UTC 2025 - ERROR: Log file does not exist!
+Mon Jul  7 08:31:16 UTC 2025 - ERROR: Log file does not exist!
+Mon Jul  7 10:50:01 UTC 2025 - ERROR: Log file does not exist!
+Mon Jul  7 10:55:01 UTC 2025 - ERROR: Log file does not exist!
+Mon Jul  7 10:59:06 UTC 2025 - Log file size: 0 bytes
+Mon Jul  7 10:59:06 UTC 2025 - Size within limit. No action taken.
+Mon Jul  7 11:00:01 UTC 2025 - Log file size: 0 bytes
+Mon Jul  7 11:00:01 UTC 2025 - Size within limit. No action taken.
+Mon Jul  7 11:05:02 UTC 2025 - Log file size: 264 bytes
+Mon Jul  7 11:05:02 UTC 2025 - Size within limit. No action taken.
+Mon Jul  7 11:10:01 UTC 2025 - Log file size: 38295 bytes
+Mon Jul  7 11:10:01 UTC 2025 - Size within limit. No action taken.
+Mon Jul  7 11:15:01 UTC 2025 - Log file size: 1153433600 bytes
+Mon Jul  7 11:15:01 UTC 2025 - Size exceeds 1GB. Triggering Jenkins job...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   465  100   465    0     0   4670      0 --:--:-- --:--:-- --:--:--  4696
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=ISO-8859-1"/>
+<title>Error 401 Unauthorized</title>
+</head>
+<body><h2>HTTP ERROR 401 Unauthorized</h2>
+<table>
+<tr><th>URI:</th><td>/job/upload-to-s3/build</td></tr>
+<tr><th>STATUS:</th><td>401</td></tr>
+<tr><th>MESSAGE:</th><td>Unauthorized</td></tr>
+<tr><th>SERVLET:</th><td>Stapler</td></tr>
+</table>
+<hr/><a href="https://jetty.org/">Powered by Jetty:// 12.0.22</a><hr/>
+
+</body>
+</html>
+Mon Jul  7 11:15:01 UTC 2025 - Jenkins job triggered.
+Mon Jul  7 11:20:01 UTC 2025 - Log file size: 1153433600 bytes
+Mon Jul  7 11:20:01 UTC 2025 - Size exceeds 1GB. Triggering Jenkins job...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   465  100   465    0     0   4541      0 --:--:-- --:--:-- --:--:--  4558
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=ISO-8859-1"/>
+<title>Error 401 Unauthorized</title>
+</head>
+<body><h2>HTTP ERROR 401 Unauthorized</h2>
+<table>
+<tr><th>URI:</th><td>/job/upload-to-s3/build</td></tr>
+<tr><th>STATUS:</th><td>401</td></tr>
+<tr><th>MESSAGE:</th><td>Unauthorized</td></tr>
+<tr><th>SERVLET:</th><td>Stapler</td></tr>
+</table>
+<hr/><a href="https://jetty.org/">Powered by Jetty:// 12.0.22</a><hr/>
+
+</body>
+</html>
+Mon Jul  7 11:20:01 UTC 2025 - Jenkins job triggered.
+Mon Jul  7 11:25:01 UTC 2025 - Log file size: 1153433600 bytes
+Mon Jul  7 11:25:01 UTC 2025 - Size exceeds 1GB. Triggering Jenkins job...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   465  100   465    0     0   4924      0 --:--:-- --:--:-- --:--:--  4894100   465  100   465    0     0   4916      0 --:--:-- --:--:-- --:--:--  4894
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=ISO-8859-1"/>
+<title>Error 401 Unauthorized</title>
+</head>
+<body><h2>HTTP ERROR 401 Unauthorized</h2>
+<table>
+<tr><th>URI:</th><td>/job/upload-to-s3/build</td></tr>
+<tr><th>STATUS:</th><td>401</td></tr>
+<tr><th>MESSAGE:</th><td>Unauthorized</td></tr>
+<tr><th>SERVLET:</th><td>Stapler</td></tr>
+</table>
+<hr/><a href="https://jetty.org/">Powered by Jetty:// 12.0.22</a><hr/>
+
+</body>
+</html>
+Mon Jul  7 11:25:01 UTC 2025 - Jenkins job triggered.
